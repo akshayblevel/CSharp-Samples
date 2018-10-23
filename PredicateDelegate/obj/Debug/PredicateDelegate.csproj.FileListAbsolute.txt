@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-Samples\PredicateDelegate\bin\Debug\PredicateDelegate.exe.config
+D:\AKKI_DEV\RND\CSharp-Samples\PredicateDelegate\bin\Debug\PredicateDelegate.exe
+D:\AKKI_DEV\RND\CSharp-Samples\PredicateDelegate\bin\Debug\PredicateDelegate.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-Samples\PredicateDelegate\obj\Debug\PredicateDelegate.exe
+D:\AKKI_DEV\RND\CSharp-Samples\PredicateDelegate\obj\Debug\PredicateDelegate.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\PredicateDelegate\obj\Debug\PredicateDelegate.csprojResolveAssemblyReference.cache

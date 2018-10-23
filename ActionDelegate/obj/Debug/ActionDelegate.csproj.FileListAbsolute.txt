@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-Samples\ActionDelegate\bin\Debug\ActionDelegate.exe.config
+D:\AKKI_DEV\RND\CSharp-Samples\ActionDelegate\bin\Debug\ActionDelegate.exe
+D:\AKKI_DEV\RND\CSharp-Samples\ActionDelegate\bin\Debug\ActionDelegate.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\ActionDelegate\obj\Debug\ActionDelegate.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-Samples\ActionDelegate\obj\Debug\ActionDelegate.exe
+D:\AKKI_DEV\RND\CSharp-Samples\ActionDelegate\obj\Debug\ActionDelegate.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\ActionDelegate\obj\Debug\ActionDelegate.csprojResolveAssemblyReference.cache

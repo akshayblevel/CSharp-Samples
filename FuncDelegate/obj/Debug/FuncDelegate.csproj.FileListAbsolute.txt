@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-Samples\FuncDelegate\bin\Debug\FuncDelegate.exe.config
+D:\AKKI_DEV\RND\CSharp-Samples\FuncDelegate\bin\Debug\FuncDelegate.exe
+D:\AKKI_DEV\RND\CSharp-Samples\FuncDelegate\bin\Debug\FuncDelegate.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\FuncDelegate\obj\Debug\FuncDelegate.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\CSharp-Samples\FuncDelegate\obj\Debug\FuncDelegate.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-Samples\FuncDelegate\obj\Debug\FuncDelegate.exe
+D:\AKKI_DEV\RND\CSharp-Samples\FuncDelegate\obj\Debug\FuncDelegate.pdb
