@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadClass\bin\Debug\Threading-ThreadClass.exe.config
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadClass\bin\Debug\Threading-ThreadClass.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadClass\bin\Debug\Threading-ThreadClass.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadClass\obj\Debug\Threading-ThreadClass.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadClass\obj\Debug\Threading-ThreadClass.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadClass\obj\Debug\Threading-ThreadClass.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadClass\obj\Debug\Threading-ThreadClass.pdb

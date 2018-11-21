@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ParameterizedThread\bin\Debug\Threading-ParameterizedThread.exe.config
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ParameterizedThread\bin\Debug\Threading-ParameterizedThread.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ParameterizedThread\bin\Debug\Threading-ParameterizedThread.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ParameterizedThread\obj\Debug\Threading-ParameterizedThread.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ParameterizedThread\obj\Debug\Threading-ParameterizedThread.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ParameterizedThread\obj\Debug\Threading-ParameterizedThread.pdb

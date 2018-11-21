@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadLocal\bin\Debug\Threading-ThreadLocal.exe.config
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadLocal\bin\Debug\Threading-ThreadLocal.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadLocal\bin\Debug\Threading-ThreadLocal.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadLocal\obj\Debug\Threading-ThreadLocal.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadLocal\obj\Debug\Threading-ThreadLocal.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-ThreadLocal\obj\Debug\Threading-ThreadLocal.pdb

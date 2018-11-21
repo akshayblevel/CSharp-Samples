@@ -4,4 +4,3 @@ D:\AKKI_DEV\RND\CSharp-Samples\CallerInfoAttribute\bin\Debug\CallerInfoAttribute
 D:\AKKI_DEV\RND\CSharp-Samples\CallerInfoAttribute\obj\Debug\CallerInfoAttribute.csproj.CoreCompileInputs.cache
 D:\AKKI_DEV\RND\CSharp-Samples\CallerInfoAttribute\obj\Debug\CallerInfoAttribute.exe
 D:\AKKI_DEV\RND\CSharp-Samples\CallerInfoAttribute\obj\Debug\CallerInfoAttribute.pdb
-D:\AKKI_DEV\RND\CSharp-Samples\CallerInfoAttribute\obj\Debug\CallerInfoAttribute.csprojResolveAssemblyReference.cache

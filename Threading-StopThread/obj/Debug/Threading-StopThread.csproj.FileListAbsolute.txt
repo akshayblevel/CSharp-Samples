@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-StopThread\bin\Debug\Threading-StopThread.exe.config
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-StopThread\bin\Debug\Threading-StopThread.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-StopThread\bin\Debug\Threading-StopThread.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-StopThread\obj\Debug\Threading-StopThread.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-StopThread\obj\Debug\Threading-StopThread.exe
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-StopThread\obj\Debug\Threading-StopThread.pdb
+D:\AKKI_DEV\RND\CSharp-Samples\Threading-StopThread\obj\Debug\Threading-StopThread.csprojResolveAssemblyReference.cache
